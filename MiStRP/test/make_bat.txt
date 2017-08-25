@@ -1,0 +1,1 @@
+C:\Users\mscales\AppData\Local\Programs\Python\Python35-32\python.exe "C:\Users\mscales\Downloads\pyqtgraph-develop\pyqtgraph-develop\setup.py"
